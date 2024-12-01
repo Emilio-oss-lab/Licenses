@@ -1,0 +1,32 @@
+{
+  "project": {
+    "name": "Lenguaje de Programación para Laravel",
+    "description": "Este proyecto es un lenguaje de programación diseñado para integrarse con Laravel.",
+    "licenses": [
+      {
+        "name": "MIT License",
+        "url": "https://opensource.org/licenses/MIT",
+        "description": "Permite usar, copiar, modificar, fusionar, publicar, distribuir, sublicenciar y vender copias del Software, siempre que se incluya una copia del aviso de derechos de autor y la licencia en las copias del Software.",
+        "summary": "Permite la libre utilización del código. No tiene restricciones sobre el uso comercial. El software se proporciona 'tal cual', sin garantías de ningún tipo."
+      },
+      {
+        "name": "GNU General Public License v3.0 (GPL-3.0)",
+        "url": "https://www.gnu.org/licenses/gpl-3.0.html",
+        "description": "Permite la modificación y distribución del código, pero con la condición de que cualquier código derivado también sea distribuido bajo la misma licencia GPL-3.0.",
+        "summary": "Modificación y distribución son permitidas, pero el código derivado debe estar bajo GPL-3.0. Asegura que el código permanezca libre y abierto para todos los usuarios."
+      },
+      {
+        "name": "Apache License 2.0",
+        "url": "https://www.apache.org/licenses/LICENSE-2.0",
+        "description": "Permite a los usuarios modificar y distribuir el software, y también incluye cláusulas legales relacionadas con las patentes.",
+        "summary": "Permite el uso comercial. Ofrece una cláusula explícita de licencia de patente. El software se distribuye 'tal cual', sin garantía de ninguna clase."
+      },
+      {
+        "name": "Dependencias",
+        "url": "https://opensource.org/licenses",
+        "description": "Este proyecto utiliza diversas dependencias de código abierto que pueden estar bajo diferentes licencias como MIT, GPL, BSD, entre otras. Las licencias específicas de las dependencias se describen en el archivo 'composer.json'.",
+        "summary": "Las dependencias pueden tener diferentes tipos de licencias. Consulta el archivo 'composer.json' para más detalles."
+      },
+    ]
+  }
+}
